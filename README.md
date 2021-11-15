@@ -17,7 +17,7 @@ learned it in an online compiler-interpreter so hadn't actually done any yet) or
 
 Here's a chronological list of the languages I've done so far:
 
-PYTHON
+# PYTHON
 I started with Python as it's the language I'm most familiar with so I could work out the actual
 sudoku algorithm I wanted to use without having to think about syntax.
 
@@ -39,13 +39,13 @@ show coding proficiency rather than any intimate sudoku knowledge.
 The Python program consists of a Sudoku class, which can be used by calling the solveSudoku function
 and passing a csv formatted in the way shown by sudokotest.csv.
 
-JAVA
+# JAVA
 The java code is extremely similar to the python code, with all methods enclosed in a Sudoku object.
 
 To use the program, we call Sudoku.solve passing the same csv as the Python code. psvm shows this
 implemented.
 
-OCAML
+# OCAML
 The algorithm I used for the OCaml implementation is slightly altered to make it work better for 
 functional programming. The set of non-helper functions are defined below.
  - getVal (char list list -> int -> int -> char)
