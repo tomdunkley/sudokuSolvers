@@ -70,7 +70,6 @@ algorithm: the sudoku is either solved or cannot be.
 
 
 There are many more languages I would like to do this in, a to-do list is shown below:
-TO-DO:
  - C++
  - JavaScript (with HTML for gathering input)
  - C (although this will be very messy)
