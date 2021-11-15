@@ -1,4 +1,4 @@
-# sudukoSolvers
+# sudokuSolvers
 A set of sudoku solvers in different programming languages
 
 I wanted to have a project to use as a benchmark for whether I "know" a programming language.
