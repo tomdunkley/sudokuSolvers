@@ -33,8 +33,7 @@ let checkValidity s i j v =
   else
     not ( (inColumn s j v) || (inRow s i v) || (inBox s (i/3) (j/3) v) )
         
-let checkValidityAssumingijNotYetSolved s i j v = not ( (inColumn s j v) || (inRow s i v) || (inBox s (i/3) (j/3) v) )
-  
+
   
 let rec solveSquareHelper s i j poss found = 
   match found with
